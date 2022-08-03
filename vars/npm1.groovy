@@ -1,3 +1,3 @@
-def npm1(){
+def npm(){
 sh 'npm install'
 }
